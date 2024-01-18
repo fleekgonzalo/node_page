@@ -2,8 +2,6 @@
 
 import { useState, useRef, useEffect } from 'react'
 import { Transition } from '@headlessui/react'
-import Image from 'next/image'
-
 
 export default function Features() {
   
